@@ -9,7 +9,7 @@ At the end of assignment you should have an end to end solution for reviewing mo
 # 3. Assignment
 Create React Native application for Android and Web platforms utilizating https://renative.org/ framework.
 
-The project can be modified as you see fit. There are no strict rules on how to implement features apart from the core functionality. Creativity and improvements are always welcomed and running the extra mile is something that would help you improve even further.
+The project can be modified as you think would be the best. There are no strict rules on how to implement features apart from the core functionality. Creativity and improvements are always welcomed and running the extra mile is something that would help you improve even further.
 
 ## 3.1. Requirements
 
