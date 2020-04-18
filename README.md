@@ -87,6 +87,8 @@ What will be evaluated:
 * Creativity. Did you managed to deliver more than we are expecting
 * Ability to adopt to new technologies. How fast you managed to complete the task
 
-P.S. if you see that you can't finish everything on time, but you still have tangible part of assignment - send it to us that will be definitely evaluated.
+P.S. If you see that you can't finish everything on time, but you still have tangible part of assignment - send it to us that will be definitely evaluated.
+
+P.S.S. If you have a question do not hesitate and create an issue straight in this repository it will be helpful for everyone. And we love when people are communicating!
 
 Good luck!
