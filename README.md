@@ -79,7 +79,7 @@ Mobile            |  Web
 # 4. Results
 
 Deadline of assignment is 1st of May. 
-Send email to internships@reactseals.com with link to your repository and include your full name in email to be recognizible. If your repository is private one then assign https://github.com/aurimas535 to be able to preview your code.
+Send email to internships@reactseals.com with link to your repository and include your full name in email to be recognizible. If your repository is private one then assign https://github.com/aurimasmi to be able to preview your code.
 
 What will be evaluated:
 * Coding practises i.e. is code structurized, is linting were applied etc...
